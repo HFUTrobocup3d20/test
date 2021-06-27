@@ -8,7 +8,7 @@ int main()
 {
     cout << "RoboCup3d_20." << endl;
     /* My idea is that we everyone put sth representing someone identify
-    in main function, such as: */
+    in the main function, such as: */
     cout << "Illyasviel." << endl;
     /* try it */
 

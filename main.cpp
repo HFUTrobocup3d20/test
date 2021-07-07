@@ -7,9 +7,8 @@ using namespace std;
 int main()
 {
     cout << "RoboCup3d_20." << endl;
-    cout << "Illyasviel." << endl;
-    //test1
-
+    cout << "Illyasviel & ResnowH." << endl;
+    cout << "I am ResnowH, this is my first push." << endl;
     return 0;
 }
 
